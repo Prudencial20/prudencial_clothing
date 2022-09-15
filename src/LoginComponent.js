@@ -31,6 +31,7 @@ const Login = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    setIsPending(false);
 
     const login = async () => {
       try {
@@ -41,6 +42,7 @@ const Login = () => {
 
               
               history.push('/shop')
+              console.log(response)
 
             
             

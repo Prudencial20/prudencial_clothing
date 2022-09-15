@@ -22,11 +22,12 @@ const SignIn = () => {
 
         const handleSubmit = (e) => {
             e.preventDefault();
-            // setIsPending(false)
+            setIsPending(false)
             const register = async () => {
                 try {
                    const response = await api.post('/customers', SignInDetails)
                    history.push('/') 
+                   console.log(response)
                 } catch (error) {
                     console.log(error.response.data)
                 }
