@@ -1,0 +1,200 @@
+{
+  "posts": [
+    {
+      "item": "Female Top",
+      "amount": "#35,000",
+      "body": "Shop Beautiful Female tops and Gowns for little Amount",
+      "id": 1
+    },
+    {
+      "item": "Female Top",
+      "amount": "#35,000",
+      "body": "Shop Beautiful Female tops and Gowns for little Amount",
+      "id": 1
+    },
+    {
+      "item": "Female Top",
+      "amount": "#35,000",
+      "body": "Shop Beautiful Female tops and Gowns for little Amount",
+      "id": 1
+    },
+    {
+      "item": "Female Top",
+      "amount": "#35,000",
+      "body": "Shop Beautiful Female tops and Gowns for little Amount",
+      "id": 1
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "usernmae": "Prudence",
+      "email": "well@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "clemzy",
+      "email": "",
+      "password": "23415",
+      "id": "7LG1RqA"
+    },
+    {
+      "username": "clemzy",
+      "email": "kings@outlook.com",
+      "password": "23415",
+      "id": 2
+    },
+    {
+      "username": "clemzy",
+      "email": "kings@outlook.com",
+      "password": "23415",
+      "id": 3
+    },
+    {
+      "email": "clemzy@gmail.com",
+      "password": "23415",
+      "id": 4
+    },
+    {
+      "email": "clemzy@gmail.com",
+      "password": "23415",
+      "id": 5
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 6
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 7
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 8
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 9
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 10
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 11
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 12
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 13
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 14
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 15
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 16
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 17
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 18
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 19
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 20
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 21
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 30
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 31
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 32
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 33
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 34
+    },
+    {
+      "email": "clemzy@outlook.com",
+      "password": "23415",
+      "id": 35
+    }
+  ]
+}
