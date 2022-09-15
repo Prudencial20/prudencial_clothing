@@ -56,4 +56,14 @@ code {
   color: white;
   border-radius: 3px;
 }
-
+.facebook-icons{
+  width: 40px;
+  border-radius: 2px;
+}
+.footer-text{
+  color: white;
+  font-size: 18px;
+  margin-top: 10px;
+  font-style: italic;
+  
+}

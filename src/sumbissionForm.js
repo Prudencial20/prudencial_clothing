@@ -16,7 +16,7 @@ const SubmissionForm = () => {
       </Form.Group>
 
       
-      <Button variant="secondary" type="submit">
+      <Button variant="primary" type="submit">
         Submit
       </Button>
     </Form>
