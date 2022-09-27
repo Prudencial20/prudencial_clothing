@@ -42,6 +42,15 @@ code {
   color: black;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.nav-buttons{
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+  /* display: flex; */
+  gap: 5px;
+  font-weight: 600;
+}
 .nav-buttons:hover{
   width: auto;
   height: 40px;

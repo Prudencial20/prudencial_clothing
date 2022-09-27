@@ -5,6 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Logo from './Images/Logo.png'
 import Image from 'react-bootstrap/Image';
+// import { Link } from 'react-router-dom'; 
 
 const NavbarComponent = () => {
   const styleNav = {
@@ -19,27 +20,24 @@ const NavbarComponent = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto" style={styleNav} >
-            {/* <Nav.Link href="/clothings">Clothings</Nav.Link> */}
+          
             <Nav.Link href="/" className='nav-buttons'>HOME</Nav.Link>
-            {/* <Nav.Link href="/childrenWears">Kids</Nav.Link> */}
-            {/* <Nav.Link href="/femaleWears">Ladies</Nav.Link> */}
-            {/* <Nav.Link href="/maleWears">Men</Nav.Link> */}
+            
             <Nav.Link href="/about" className='nav-buttons'>ABOUT US</Nav.Link>
             <NavDropdown title="COLLECTIONS" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="/childrenWears">Children wears</NavDropdown.Item>
-              <NavDropdown.Item href="/femaleWears">
+              <NavDropdown.Item href="/childrenWears" className='nav-buttons'>Children wears</NavDropdown.Item>
+              <NavDropdown.Item href="/femaleWears" className='nav-buttons'>
                 Female Wears
               </NavDropdown.Item>
-              <NavDropdown.Item href="/maleWears">Male wears</NavDropdown.Item>
+              <NavDropdown.Item href="/maleWears" className='nav-buttons'>Male wears</NavDropdown.Item>
               <NavDropdown.Divider />
             </NavDropdown>
           </Nav>
           <Nav>
-            <Nav.Link href="/signIn" className='nav-buttons'>SIGN UP</Nav.Link>
-            {/* <Nav.Link href="/signIn">LOG IN</Nav.Link> */}
-            <Nav.Link href="/shop" className='nav-buttons'>SHOP NOW</Nav.Link>
-            <Nav.Link href="/logIn" className='nav-buttons'>USER ACCOUNT</Nav.Link>
-          
+          <Nav.Link href="/signin" className='nav-buttons'>SIGN-UP</Nav.Link>
+          {/* <Nav.Link href="/login" className='nav-buttons'>LOG-IN</Nav.Link> */}
+          <Nav.Link href="/shop" className='nav-buttons'>SHOP-NOW</Nav.Link>
+          <Nav.Link href="/login" className='nav-buttons'>USER-ACCOUNT</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
